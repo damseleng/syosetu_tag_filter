@@ -6,6 +6,8 @@
 // @author       Damseleng
 // @match        https://syosetu.org/?mode=rank*
 // @grant        none
+// @updateURL   https://github.com/damseleng/syosetu_tag_filter/raw/refs/heads/main/syosetu_tag_filter.user.js
+// @downloadURL https://github.com/damseleng/syosetu_tag_filter/raw/refs/heads/main/syosetu_tag_filter.user.js
 // ==/UserScript==
 
 (function() {
